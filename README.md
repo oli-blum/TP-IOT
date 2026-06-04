@@ -1,4 +1,10 @@
-# TP-IOT
+# Informe Técnico 
+# Proyecto electrónica y programacón
+# Alumnos : Lucas W, José B, Maximo P, Leon S, Olivia B.
+# Curso : 4A TIC
+# 04/06 - 24/06
+
+
 Proyecto Electrónica y Programación
 Proyecto Electrónica y Programación
 Introducción
